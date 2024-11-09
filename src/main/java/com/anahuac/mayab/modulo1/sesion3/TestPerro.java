@@ -12,6 +12,7 @@ public class TestPerro {
 		System.out.println("El perro se llama"+ perro1.getNombre());
 		System.out.println("El perro se llama");
 		perro2.Ladrar();
+		
 	}
 
 }
