@@ -16,7 +16,7 @@ public class TestPerro {
 		
 		System.out.println("El perro2 se llama: " + perro2.getNombre());
 		
-		
+		System.out.println("----- Ahora usando un array Simple  ------- ");
 		//Ya sabemos el nombre del perro1
 		perro1.setNombre("solovino");
 		
@@ -29,8 +29,8 @@ public class TestPerro {
 		//Perro[] misPerros2 = {new Perro(), new Perro(); }
 		Perro[] misPerros = new Perro[10];
 		
-		String[] nombres = {"perro1","perro2","perro3","perro4","perro5","perro6","perro7","perro8","perro9","perro10"};
-		String[] duenos = {"d1","d2","d3","d4","d5","d6","d7","d8","d9","d10"};
+		String[] nombres = {"Max","Capuchino","Laika","Bolt","Oliver","Ruso","Robina","Sisy","Olaf","Dancer"};
+		String[] duenos = {"Ana","Luisa","Mariana","Daniel","Jose","Eduardo","Ana Luisa","Ernestina","Magdalena","Jacky"};
 		
 		for(int i = 0; i < 10; i++) {
 			misPerros[i] = new Perro();
