@@ -1,0 +1,6 @@
+-------Datos Perro--------
+Nombre=maximo [raza=Bulldog, tamaño=null, peso=0.0, nombreDuenio=Carlos Pérez, edad=0]
+-------
+Vacuna:vacuna
+Fecha: 17-10-2024
+___________________

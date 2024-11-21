@@ -1,0 +1,6 @@
+-------Datos Perro--------
+Nombre=firulais [raza=Pastor, tamaño=null, peso=0.0, nombreDuenio=Areli Vega, edad=0]
+-------
+Vacuna:vacuna
+Fecha: 16-10-2024
+___________________

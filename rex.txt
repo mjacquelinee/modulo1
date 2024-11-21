@@ -1,0 +1,6 @@
+-------Datos Perro--------
+Nombre=rex [raza=Labrador, tamaño=null, peso=0.0, nombreDuenio=Juan López, edad=0]
+-------
+Vacuna:vacuna
+Fecha: 18-10-2024
+___________________
